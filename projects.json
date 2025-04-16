@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Smart Budget Tracker",
+      "description": "A sophisticated budget tracker that integrates real-time financial tracking, user-defined categories, and powerful visual reports. Users can track income, expenses, and set goals. The app includes budgeting algorithms to provide smart suggestions based on past spending. MySQL stores user data and financial records with optimized queries for performance. Perfect for showcasing your full-stack development and database optimization skills.",
+      "tech": ["React", "Node.js", "Express", "MySQL", "Tailwind"],
+      "live": "https://yourdomain.com/budget-tracker",
+      "repo": "https://github.com/yourname/budget-tracker",
+      "image": "./assets/SmartBudgetTracker.png"
+    },
+    {
+      "id": 2,
+      "title": "Job Board Platform",
+      "description": "A highly interactive job board platform that allows companies to post job openings, and job seekers to apply directly through custom-built dashboards. The platform includes a powerful search engine with advanced filters like location, job type, and salary. Real-time application tracking and job notifications ensure an engaging experience for users. MySQL is used to efficiently handle complex job and application relationships, ensuring scalability as the platform grows.",
+      "tech": ["React", "Node.js", "Express", "MySQL", "Tailwind"],
+      "live": "https://yourdomain.com/job-board",
+      "repo": "https://github.com/yourname/job-board",
+      "image": "./assets/job-board.png"
+    },
+    {
+      "id": 3,
+      "title": "Social Media Dashboard",
+      "description": "A dynamic social media dashboard that pulls data from multiple social media platforms (Twitter, Facebook, Instagram) to display real-time metrics like follower count, engagement, and post reach. Users can track their social media performance in a single interface. The app uses MySQL to efficiently store user data and social media statistics. This project showcases your ability to handle APIs, integrate third-party services, and manage large datasets in a highly interactive UI.",
+      "tech": ["React", "Node.js", "Express", "MySQL", "Tailwind"],
+      "live": "https://yourdomain.com/social-dashboard",
+      "repo": "https://github.com/yourname/social-dashboard",
+      "image": "./assets/social-dashboard.png"
+    },
+    {
+      "id": 4,
+      "title": "E-Commerce Platform with Custom Admin Panel",
+      "description": "A full-stack e-commerce platform where users can browse products, add items to their cart, and make secure payments via Stripe. The platform supports an intuitive admin panel for managing products, orders, and customers. Using MySQL, the system tracks inventory, processes transactions, and provides detailed sales reports. This project goes beyond the basics by incorporating real-time inventory updates, performance optimizations for high traffic, and secure authentication using JWT.",
+      "tech": ["React", "Node.js", "Express", "Stripe", "MySQL", "Tailwind"],
+      "live": "https://yourdomain.com/e-commerce",
+      "repo": "https://github.com/yourname/e-commerce",
+      "image": "./assets/e-commerce.png"
+    },
+    {
+        "id": 5,
+        "title": "Real-Time Project Management & Task Collaboration Tool",
+        "description": "A full-featured project management tool designed for teams to collaborate efficiently, manage tasks, and track project progress. Users can create tasks, assign them, track completion status, and set deadlines. The platform integrates real-time updates (via WebSockets) for seamless collaboration. Additionally, it uses AI-driven task prioritization and suggestions based on user behavior and project history. MySQL handles all the backend data, ensuring high performance for project tracking, task dependencies, and user permissions. This project demonstrates mastery in real-time collaboration, AI integrations, and advanced database management with a focus on performance and scalability.",
+        "tech": ["React", "Node.js", "Express", "MySQL", "Socket.IO", "Tailwind"],
+        "live": "https://yourdomain.com/project-management",
+        "repo": "https://github.com/yourname/project-management",
+        "image": "./assets/project-management.png"
+      },
+    {
+      "id": 6,
+      "title": "Online Learning Platform with Interactive Features",
+      "description": "A full-featured online learning platform where instructors can create courses, and students can track their learning progress, take quizzes, and receive certificates. The platform includes integrated video streaming and assessment systems. MySQL is used for managing users, courses, enrollments, and progress tracking, ensuring high performance even as the platform scales. This project highlights your ability to manage content, handle video streaming, and implement complex logic like progress tracking, quizzes, and certificates.",
+      "tech": ["React", "Node.js", "Express", "MySQL", "Tailwind"],
+      "live": "https://yourdomain.com/learning-platform",
+      "repo": "https://github.com/yourname/learning-platform",
+      "image": "./assets/learning-platform.png"
+    }
+  ]
+  
